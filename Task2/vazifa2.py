@@ -1,0 +1,37 @@
+# text = "  Hello, Python World!  "
+# name = "Ergashboy"
+# surname = "Masharipov"
+# number_str = "123"
+# comma_text = "apple,banana,cherry"
+#
+# print("1. capitalize() - Birinchi harfni katta qiladi:", text.capitalize())
+# print("2. casefold() - Hammasini kichik harfga aylantiradi:", text.casefold())
+# print("3. center() - Matnni markazga qo‘yib joy to‘ldiradi:", text.center(30, "-"))
+# print("4. count() - Belgining necha marta qatnashganini topadi:", text.count("o"))
+# print("5. encode() - Matnni UTF-8 formatga o‘tkazadi:", text.encode())
+# print("6. endswith() - Matn shu bilan tugashini tekshiradi:", text.endswith("!  "))
+# print("7. expandtabs() - Tab belgisini bo‘shliqqa aylantiradi:", "text\t123".expandtabs(4))
+# print("8. find() - Belgining indeksini topadi (topilsa):", text.find("Python"))
+# print("9. index() - Belgining indeksini topadi (topilmasa xato):", text.index("Python"))
+# print("10. split() - Matnni bo‘lib, ro‘yxatga aylantiradi:", comma_text.split(","))
+# print("11. join() - Ro‘yxat elementlarini bitta matnga birlashtiradi:", ",".join(["one", "two"]))
+# print("12. isalpha() - Faqat harflardan iboratligini tekshiradi:", name.isalpha())
+# print("13. isdigit() - Faqat raqamlardan iboratligini tekshiradi:", number_str.isdigit())
+# print("14. isalnum() - Harf yoki raqamdan iboratligini tekshiradi:", "abc123".isalnum())
+# print("15. islower() - Hammasi kichik harf ekanligini tekshiradi:", "hello".islower())
+# print("16. isupper() - Hammasi katta harf ekanligini tekshiradi:", "HELLO".isupper())
+# print("17. isspace() - Faqat bo‘sh joylardan iboratligini tekshiradi:", "   ".isspace())
+# print("18. istitle() - Har bir so‘z katta harf bilan boshlanganmi:", "Title Case".istitle())
+# print("19. ljust() - Chapga tekislab, o‘ngdan joy to‘ldiradi:", "python".ljust(10, "*"))
+# print("20. rjust() - O‘ngga tekislab, chapdan joy to‘ldiradi:", "python".rjust(10, "*"))
+# print("21. lower() - Matnni kichik harflarga aylantiradi:", text.lower())
+# print("22. upper() - Matnni katta harflarga aylantiradi:", text.upper())
+# print("23. lstrip() - Chap tomondagi bo‘sh joylarni olib tashlaydi:", text.lstrip())
+# print("24. rstrip() - O‘ng tomondagi bo‘sh joylarni olib tashlaydi:", text.rstrip())
+# print("25. strip() - Ikkala tomondagi bo‘sh joylarni olib tashlaydi:", text.strip())
+# print("26. replace() - Matndagi belgilarni almashtiradi:", text.replace("World", "Everyone"))
+# print("27. swapcase() - Katta harflarni kichik, kichiklarni katta qiladi:", text.swapcase())
+# print("28. title() - Har bir so‘zni katta harf bilan boshlaydi:", "hello world".title())
+# print("29. istitle() - Matn title formatda ekanini tekshiradi:", "Hello World".istitle())
+# print("30. zfill() - Oldini 0 bilan to‘ldiradi:", "123".zfill(5))
+# print("31. capitalize() - Faqat birinchi harfni katta qiladi:", "pyThOn".capitalize())
