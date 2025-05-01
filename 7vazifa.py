@@ -7,3 +7,20 @@ for soz in sozlar:
     else:  
         lugat[soz] = 1  
 print(lugat)
+
+
+
+foydalanuvchi = {
+    "ism": "Ali",
+    "yosh": 20,
+    "shahar": "Andijon"
+    }
+foydalanuvchi["yosh"] = 21
+del foydalanuvchi["shahar"]
+print(foydalanuvchi)
+
+
+
+sonlar = [1, 2, 2, 3, 4, 4, 5]
+noyob_sonlar = set(sonlar)
+print(noyob_sonlar)
