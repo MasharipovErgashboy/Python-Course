@@ -16,9 +16,9 @@ foydalanuvchi = {
     "shahar": "Andijon"
     }
 foydalanuvchi["yosh"] = 21
-del foydalanuvchi["shahar"]
+foydalanuvchi["shahar"] = "Toshkent"
+del foydalanuvchi["ism"]
 print(foydalanuvchi)
-
 
 
 sonlar = [1, 2, 2, 3, 4, 4, 5]
